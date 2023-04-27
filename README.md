@@ -1,4 +1,4 @@
-### Boas vindas ao perfil do Thiago :star:
+### Boas vindas ao perfil do Thiago 👨‍🏫
 
 Sou professor de Matemática, atualmente estou dando aulas de:
 
@@ -15,7 +15,7 @@ Estou estudando na Alura:
 
 Contatos:
 
-:email: haagsmaThiago@hotmail.com
+📫 haagsmathiago@hotmail.com
 
 @haagsmathiago
 
