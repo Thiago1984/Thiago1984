@@ -1,16 +1,22 @@
-### Hi there 👋
+### Boas vindas ao perfil do Thiago :star:
 
-<!--
-**Thiago1984/Thiago1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou professor de Matemática, atualmente estou dando aulas de:
 
-Here are some ideas to get you started:
+- Pensamento Computacional
+- Programação
+- Robótica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na Alura:
+
+- Html
+- css
+- Javascript
+- Python
+
+Contatos:
+
+:email: haagsmaThiago@hotmail.com
+
+@haagsmathiago
+
+![](https://media.tenor.com/W9_8dfFmyr0AAAAd/pixel-game.gif)
