@@ -1,6 +1,6 @@
 ### Boas vindas ao perfil do Thiago 👨‍🏫
 
-Sou professor de Matemática, atualmente estou dando aulas de:
+Sou professor de Matemática, atualmente estou lecionando:
 
 - Pensamento Computacional
 - Programação
@@ -9,8 +9,8 @@ Sou professor de Matemática, atualmente estou dando aulas de:
 Estou estudando na Alura:
 
 - Html
-- css
-- Javascript
+- CSS
+- JavaScript
 - Python
 
 Contatos:
