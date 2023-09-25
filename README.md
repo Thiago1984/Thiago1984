@@ -15,12 +15,14 @@ Estou estudando na Alura:
 - Java
 - Python
 
-Contatos:
+Contatos e canais:
 
 📫 haagsmathiago@hotmail.com
 
-📷Instagram [@haagsmathiago](https://www.instagram.com/haagsmathiago/)
+📺 YouTube [Metalmática](https://www.youtube.com/channel/UCiHzEoVc6_QNElEbzF6SQKQ)
 
-🧑‍💼LinkedIn [ThiagoA.Haagsma](https://www.linkedin.com/in/thiago-antunes-haagsma-83175a25/)
+📷 Instagram [@haagsmathiago](https://www.instagram.com/haagsmathiago/)
+
+🧑‍💼 LinkedIn [Thiago A. Haagsma](https://www.linkedin.com/in/thiago-antunes-haagsma-83175a25/)
 
 ![Gif com dois programadores, em desenho pixelado, um conta uma piada ao outro em linguagem binária, os dois riram no fianl.](https://media.tenor.com/W9_8dfFmyr0AAAAd/pixel-game.gif)
